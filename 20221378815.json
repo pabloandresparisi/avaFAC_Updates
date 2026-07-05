@@ -1,1 +1,2 @@
-{ "valid": true, "licenseType": "permanent" }
+{ "valid": true,
+  "modulos": ["FE", "BAR", "CAJA", "TACTIL", "CONSOLIDACION", "MULTIEMPRESA"]}
