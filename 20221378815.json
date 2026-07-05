@@ -1,6 +1,1 @@
-{
-  "valid": true,
-  "licenseType": "permanent",
-  "modulos": ["FE"],
-  "multiempresa": false
-}
+{ "valid": true, "licenseType": "permanent" }
